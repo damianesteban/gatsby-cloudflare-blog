@@ -1,5 +1,5 @@
 ---
-title: How to Integrate with an EMR as a Digital Healthcare Startup
+title: Why human centered design is important
 date: "2017-12-18"
 template: post
 ---
