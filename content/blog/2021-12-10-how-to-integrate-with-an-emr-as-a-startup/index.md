@@ -1,11 +1,7 @@
 ---
 title: How to Integrate with an EMR as a Digital Healthcare Startup
-published: true
 date: "2021-12-11"
-description: What to expect when integrating with an EMR as a Digital Healthcare Startup. 
-tags: healthcare, fhir, hl7, serverless
 template: post
-cover_image: https://topflightapps.com/wp-content/uploads/2020/05/hero-image-Epic-USCDI-on-FHIR-EHR-integration.jpg
 ---
 
 # Introduction
