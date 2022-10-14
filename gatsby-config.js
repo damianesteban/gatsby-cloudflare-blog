@@ -42,6 +42,23 @@ module.exports = {
               wrapperStyle: `margin-bottom: 1.0725rem`,
             },
           },
+          {
+            resolve: `gatsby-plugin-posthog`,
+            options: {
+              // Specify the API key for your Posthog Project (required)
+              apiKey: "phc_jpjjpxaygzoLYGDDL3BAYOSbgGIdJ1w9DU5ed42VrQ6",
+              // Specify the app host if self-hosting (optional, default: https://app.posthog.com)
+              apiHost: "https://app.posthog.com",
+              // Puts tracking script in the head instead of the body (optional, default: true)
+              head: true,
+              // Enable posthog analytics tracking during development (optional, default: false)
+              isEnabledDevMode: true,
+              // Pass custom variables to posthog.init() (optional)
+              initOptions: {
+                // ...
+              }
+            }
+          },
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
