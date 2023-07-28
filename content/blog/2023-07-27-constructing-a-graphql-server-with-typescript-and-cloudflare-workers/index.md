@@ -1,5 +1,5 @@
 ---
-title: "Constructing a Serverless GraphQL Yoga Server with TypeScript on Cloudflare Workers"
+title: "Building a Serverless GraphQL Yoga Server with TypeScript on Cloudflare Workers"
 date: "2023-07-27"
 template: post
 ---
