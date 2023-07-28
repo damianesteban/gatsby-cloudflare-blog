@@ -11,11 +11,11 @@ module.exports = {
   useKatex: false,
   author: {
     name: `Damian Esteban`,
-    summary: `, CTO, digital healthcare revolutionist, solutions architect, software engineer.`,
+    summary: `Software engineer, CTO, digital healthcare revolutionary, solutions architect.`,
     social: {
       twitter: `estebanrules`,
       github: `damianesteban`,
-      email: `damian@desteban.dev`,
+      email: `damian@damianesteban.dev`,
       linkedin: `damianesteban`,
       facebook: `estebanrules`,
       instagram: ``,
